@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>/2019/index.html</loc>
+  <lastmod>2019-08-28T23:04:00Z</lastmod>
+ </url>
+ <url>
   <loc>/archive.html</loc>
   <lastmod>2019-08-28T23:04:00Z</lastmod>
  </url>
@@ -19,6 +23,10 @@
  </url>
  <url>
   <loc>/index.html</loc>
+  <lastmod>2019-08-28T23:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/welcome.html</loc>
   <lastmod>2019-08-28T23:04:00Z</lastmod>
  </url>
  <url>
